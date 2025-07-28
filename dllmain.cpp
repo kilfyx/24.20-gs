@@ -7,10 +7,10 @@ if (main::gun.bCreative)
   
 }
 
-if (main::gun.b24)
+if (main::gun.b28)
 {
 
-  1:1 Season 24
+  1:1 Season 28
   
 }
 
