@@ -7,7 +7,7 @@ namespace main
 	public:
 
 bool bCreative = false;
-bool b24 = true;
+bool b28 = true;
 bool bLategame = false;
 
 	};
